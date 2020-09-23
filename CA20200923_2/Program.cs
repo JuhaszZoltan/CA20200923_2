@@ -18,9 +18,6 @@ namespace CA20200923_2
         static Random rnd = new Random();
         static void Main(string[] args)
         {
-
-
-
             Console.ReadKey();
         }
 
@@ -57,7 +54,6 @@ namespace CA20200923_2
                         "akkor egyszerűen nem fut le egyik sem");
                     break;
             }
-
         }
         static void F002()
         {
